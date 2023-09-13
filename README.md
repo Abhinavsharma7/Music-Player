@@ -1,49 +1,4 @@
 
-  
-
-<h1 align="center">
-react-jinke-music-player
-</h1>
-
-<h4 align="center">
-:musical_note: Maybe the best beautiful HTML5 responsive player component for react : )
-</h4>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/react-jinke-music-player" title="npm">
-    <img src="https://img.shields.io/npm/dm/react-jinke-music-player.svg?style=flat-square" alt="npm"/>
-  </a>
-  <a href="https://www.npmjs.com/package/react-jinke-music-player" title="npm">
-    <img src="https://img.shields.io/npm/l/react-jinke-music-player.svg?style=flat-square" alt="npm"/>
-  </a>
-  <a href="https://github.com/lijinke666/react-music-player/actions">
-    <img src="https://github.com/lijinke666/react-music-player/workflows/CI/badge.svg" />
-  </a>
-   <a href="https://badge.fury.io/js/react-jinke-music-player" title="npm">
-    <img src="https://img.shields.io/npm/v/react-jinke-music-player.svg?style=flat-square" alt="npm version"/>
-  </a>
-  <a href="https://lgtm.com/projects/g/lijinke666/react-music-player/context:javascript">
-    <img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/lijinke666/react-music-player.svg?logo=lgtm&logoWidth=18"/>
-  </a>
-  <a href="https://codecov.io/gh/lijinke666/react-music-player">
-    <img src="https://codecov.io/gh/lijinke666/react-music-player/branch/master/graph/badge.svg" />
-  </a>
-  <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/react-jinke-music-player?style=flat-square">
-  <a href="https://david-dm.org/lijinke666/react-music-player" title="dependencies status"><img src="https://david-dm.org/lijinke666/react-music-player/status.svg"/></a>
-  <a href="https://david-dm.org/lijinke666/react-music-player?type=dev" title="devDependencies status"><img src="https://david-dm.org/lijinke666/react-music-player/dev-status.svg"/></a>
-  <a href="https://github.com/semantic-release/semantic-release" title="semantic-release">
-    <img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" alt="semantic release"/>
-  </a>
-  <a href="https://visitor-badge.glitch.me" title="visitor">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=lijinke666.react-music-player" alt="visitor"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lijinke666/react-music-player/blob/master/CN.md">
-    中文文档
-  </a>
-</p>
 
 ## :package: Installation
 
